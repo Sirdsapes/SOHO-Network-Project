@@ -1,1 +1,2 @@
-<a href="https://ibb.co/zN0Tm34"><img src="https://i.ibb.co/Ptfvr26/SOHO-Net.png" alt="SOHO-Net" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>image upload share</a><br />
+
+![SOHO Net](https://github.com/user-attachments/assets/df2acb3d-d907-48dc-abd2-f334bc2c2a08)
